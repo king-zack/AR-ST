@@ -1,4 +1,4 @@
-UCONN IAC Power Factor Calculator Written by -- Zachary King
+UCONN IAC Smart Thermostat Calculator Written by -- Zachary King
 
 This program is meant to automatically estimate the possible savings a manufacturing plant is capable of when replacing all thermostats with smart thermostats.
 
