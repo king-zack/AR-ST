@@ -37,8 +37,7 @@ def ccfToMMBtu(ccf):
 	return (ccf*100*1027)/1000000
 	
 def calcNumThermostats(A):
-	AreaPer = A**2 / 2500**2
-	numThermostats = math.ceil(A / AreaPer)
+	numThermostats = math.ceil(A/2500)
 	return numThermostats
 	
 def CO2TonsNaturalGas(GasMMbtu):
